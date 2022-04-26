@@ -3,4 +3,4 @@
 source 'https://rubygems.org'
 
 gem 'bundler-audit'
-gem 'puma', '4.3.5'
+gem 'puma', '5.6.4'
